@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: x-large;
+}
+
+header {
+    background-color: #98C74E;
+    padding: .35rem;
+    text-align: center;
+    margin-bottom: 2rem;;
+}
+
+.sec1, .sec2 {
+    padding: 1rem;
+    margin: auto;
+}
+
+#button {
+    background-color: #98C74E;
+    padding: 1rem 2rem;
+    border-radius: 0.45rem;
+    margin: 2.5rem;
+    font-size: large;
+    cursor: pointer;
+    
+
+}
+
+.change-table {
+    background-color: #98C74E;
+    padding: 1.5rem;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 0.5rem;
+} 
+
+label, input {
+    width: 40%;
+    height: 2.5rem;
+}
