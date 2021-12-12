@@ -16,7 +16,7 @@ header {
     margin: auto;
 }
 
-#button {
+#button, #next-btn {
     background-color: #98C74E;
     padding: 1rem 2rem;
     border-radius: 0.45rem;
@@ -42,3 +42,12 @@ label, input {
     width: 40%;
     height: 2.5rem;
 }
+
+.sec2 {
+    visibility: hidden;
+}
+
+.div-sec {
+    visibility: hidden;
+}
+
